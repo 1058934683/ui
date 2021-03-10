@@ -8,7 +8,7 @@
 -->
 <template>
   <div class="hello">
-    <h4>中国银行线上开卡申请单</h4>
+    <h4></h4>
     <el-input v-model="msg" placeholder="" size="normal" clearable @change="iChange"></el-input>
   </div>
 </template>
